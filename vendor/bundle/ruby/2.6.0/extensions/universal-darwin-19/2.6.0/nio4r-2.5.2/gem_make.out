@@ -1,5 +1,5 @@
 current directory: /Users/atsushi/Desktop/memo_app/vendor/bundle/ruby/2.6.0/gems/nio4r-2.5.2/ext/nio4r
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20200724-36888-1mp5475.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20200724-60166-ur458w.rb extconf.rb
 checking for unistd.h... yes
 checking for linux/aio_abi.h... no
 checking for sys/select.h... yes
@@ -254,4 +254,4 @@ ld: warning: directory not found for option '-L/Applications/Xcode.app/Contents/
 
 current directory: /Users/atsushi/Desktop/memo_app/vendor/bundle/ruby/2.6.0/gems/nio4r-2.5.2/ext/nio4r
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 nio4r_ext.bundle ./.gem.20200724-36888-17lecg
+/usr/bin/install -c -m 0755 nio4r_ext.bundle ./.gem.20200724-60166-185b3c3

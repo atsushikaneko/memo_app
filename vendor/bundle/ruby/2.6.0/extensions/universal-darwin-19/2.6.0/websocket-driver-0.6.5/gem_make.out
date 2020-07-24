@@ -1,5 +1,5 @@
 current directory: /Users/atsushi/Desktop/memo_app/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.6.5/ext/websocket-driver
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20200724-36888-cx2in5.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20200724-60166-153ranq.rb extconf.rb
 creating Makefile
 
 current directory: /Users/atsushi/Desktop/memo_app/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.6.5/ext/websocket-driver
@@ -13,4 +13,4 @@ ld: warning: directory not found for option '-L/Applications/Xcode.app/Contents/
 
 current directory: /Users/atsushi/Desktop/memo_app/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.6.5/ext/websocket-driver
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20200724-36888-qcmdsl
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20200724-60166-wq3qi4

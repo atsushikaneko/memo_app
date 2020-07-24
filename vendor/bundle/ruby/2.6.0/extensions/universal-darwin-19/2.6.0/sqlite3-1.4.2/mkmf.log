@@ -403,7 +403,7 @@ ld: warning: directory not found for option '-L/usr/local/Cellar/sqlite/3.32.3/l
 ld: warning: directory not found for option '-L/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.Internal.sdk/usr/local/lib'
 Undefined symbols for architecture x86_64:
   "_sqlite3_enable_load_extension", referenced from:
-      _t in conftest-bac310.o
+      _t in conftest-3e879e.o
 ld: symbol(s) not found for architecture x86_64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:
@@ -457,7 +457,7 @@ ld: warning: directory not found for option '-L/usr/local/Cellar/sqlite/3.32.3/l
 ld: warning: directory not found for option '-L/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.Internal.sdk/usr/local/lib'
 Undefined symbols for architecture x86_64:
   "_sqlite3_load_extension", referenced from:
-      _t in conftest-444ed2.o
+      _t in conftest-6fc01a.o
 ld: symbol(s) not found for architecture x86_64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:
