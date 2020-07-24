@@ -2,11 +2,13 @@
 <p>Find me in app/views/memo/index.html.erb</p>
 <div>
 <ul>
-<li>
+<% @posts.each do |post| %>
+    <li>
   <a href="#">
-    <h2>Title #1</h2>
-    <p>Text Content #1</p>
+    <h2><%= post.title %> #1</h2>
+    <p><%= post.content %> #1</p>
   </a>
-</li>
+  </li>
+<% end %>
 </ul>
 </div>
