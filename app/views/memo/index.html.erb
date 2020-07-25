@@ -10,4 +10,37 @@
   </li>
 <% end %>
 </ul>
+
+<div id='app'>
+  <p>{{ message }}</p>
 </div>
+
+
+<div id='app2'>
+  <p>{{ datetime }}</p>
+</div>
+
+
+
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.10/dist/vue.js"></script>
+<script>
+
+new Vue({
+  el: '#app',
+  data: {
+    message: 'Hello VueJS!'
+  }
+})
+
+new Vue({
+  el: '#app2',
+  computed: {
+    datetime: function(){
+      return new Date();
+    }
+  }
+})
+
+</script>
